@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=daychongyang.daychongyang)
+
+### Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=daychongyang&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
